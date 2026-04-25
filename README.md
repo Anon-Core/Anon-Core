@@ -1,134 +1,137 @@
-# Anon
+# 👤 Anonymous
 
-> "Anon" stands for **Anonymous**.  
-> Many people carry this name — and that never mattered to me.
+<div align="center">
 
-I’m a security‑focused developer with about **5 years of exploration across different technology domains**, eventually specializing in **Python with a focus on security**.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Security+Researcher;Blockchain+%26+Smart+Contract+Auditor;Python+Specialist;Penetration+Tester)](https://git.io/typing-svg)
 
-Currently I’m moving deeper into **Blockchain and Smart Contract Security**.
+[🇬🇧 English](#english) | [🇮🇷 فارسی](#فارسی)
 
----
-
-## About Me
-
-- Security‑oriented Python developer
-- Interested in offensive security and system internals
-- Focused on Web Security and Network Analysis
-- Currently studying **Blockchain & Smart Contract Security**
+</div>
 
 ---
 
-## Technical Skills
+## <a name="english"></a>🇬🇧 English
 
-### Programming
+### About Me
 
-- Python (Security focused)
-- C (Basic)
-- C++ (Basic)
-- C# (Basic)
+I'm **Anon** — short for Anonymous. A title shared by many, and that's exactly how I like it.
 
-### Security Knowledge
+For the past **5 years**, I've been navigating through various branches of technology, specializing in **Python** with a focus on **Security**.
 
-- Web Penetration Testing (Foundations)
-- Network Scanning
-- Vulnerability Scanning
-- DoS / DDoS concepts
+### 🛠️ Technical Stack
 
-### Web Vulnerabilities (Fundamentals)
+**Languages:**
+- 🐍 **Python** — Advanced (Security-focused)
+- ⚙️ **C / C++ / C#** — Intermediate
 
-- SQL Injection (SQLi)
-- Cross Site Scripting (XSS)
-- CSRF
-- File Upload Vulnerabilities
+**Certifications & Training:**
+- 🌐 **Network+**
+- 🔐 **CEH** (Certified Ethical Hacker)
+- 🛡️ **Security+**
+- 🐧 **Linux LPIC-1**
 
----
+**Security Expertise:**
+- Web Application Penetration Testing
+- Network Scanning & Reconnaissance
+- Vulnerability Assessment
+- DoS/DDoS Attack Vectors
+- Common Web Vulnerabilities:
+  - SQL Injection (SQLi)
+  - Cross-Site Scripting (XSS)
+  - Cross-Site Request Forgery (CSRF)
+  - File Upload Vulnerabilities
 
-## Certifications & Courses
+### 🎯 Current Focus
 
-- Network+
-- CEH (Certified Ethical Hacker)
-- Security+
-- LPIC‑1 (Linux)
+I've chosen my path and I'm walking it with purpose:
 
----
+> **Blockchain Security & Smart Contract Auditing**
 
-## Current Focus
+Currently deep-diving into professional-level blockchain security, focusing on smart contract vulnerabilities and decentralized system architecture.
 
-Right now my main learning path is:
+### 📫 Connect
 
-**Blockchain Security**
-
-- Smart Contract Security
-- Web3 Architecture
-- Decentralized Systems
-
----
-
-## Philosophy
-
-Technology is an endless field of exploration.  
-For years I moved between different areas — learning, testing, breaking, rebuilding.
-
-Now the focus is clear.
-
-**Security. Blockchain. Depth.**
+*The best way to reach me is through the shadows of the network.*
 
 ---
 
-<details>
-<summary>🇮🇷 مشاهده نسخه فارسی</summary>
+<div align="center">
 
-## درباره من
+**"In a world of digital footprints, anonymity is a choice."**
 
-من **Anon** هستم.  
-Anon مخفف **Anonymous** است و افراد زیادی از این لقب استفاده می‌کنند و این موضوع برای من اهمیتی ندارد.
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00f7f7&style=flat-square)
 
-حدود **۵ سال در حوزه‌های مختلف تکنولوژی فعالیت و جستجو کردم** و در نهایت مسیر خودم را در **پایتون با گرایش امنیت** پیدا کردم.
+</div>
 
 ---
 
-## مهارت‌ها
+## <a name="فارسی"></a>🇮🇷 فارسی
 
-### برنامه‌نویسی
+### درباره من
 
-- Python (با تمرکز روی امنیت)
-- C (مقدماتی)
-- C++ (مقدماتی)
-- C# (مقدماتی)
+من **Anon** هستم — مخفف Anonymous. لقبی که افراد زیادی دارند، و این دقیقاً همان چیزی است که می‌خواهم.
 
-### دانش امنیت
+در **۵ سال** گذشته، در شاخه‌های مختلف تکنولوژی حرکت کرده‌ام و **پایتون** را به صورت تخصصی با گرایش **امنیت** یاد گرفته‌ام.
 
-- تست نفوذ وبسایت (در سطح مبانی)
-- اسکن شبکه
-- اسکن آسیب‌پذیری
-- مفاهیم حملات DoS / DDoS
+### 🛠️ مهارت‌های فنی
 
-### آسیب‌پذیری‌های وب
+**زبان‌های برنامه‌نویسی:**
+- 🐍 **Python** — پیشرفته (با تمرکز امنیت)
+- ⚙️ **C / C++ / C#** — مقدماتی تا متوسط
 
-- SQL Injection
-- XSS
-- CSRF
-- File Upload Vulnerability
+**گواهینامه‌ها و دوره‌ها:**
+- 🌐 **Network+**
+- 🔐 **CEH** (هکر اخلاقی معتبر)
+- 🛡️ **Security+**
+- 🐧 **Linux LPIC-1**
+
+**تخصص‌های امنیتی:**
+- تست نفوذ وب‌سایت
+- اسکن شبکه و شناسایی
+- ارزیابی آسیب‌پذیری
+- حملات DoS/DDoS
+- آسیب‌پذیری‌های رایج وب:
+  - SQL Injection (SQLi)
+  - Cross-Site Scripting (XSS)
+  - Cross-Site Request Forgery (CSRF)
+  - آسیب‌پذیری آپلود فایل
+
+### 🎯 تمرکز فعلی
+
+مسیرم را انتخاب کرده‌ام و با هدف در حال پیمودن آن هستم:
+
+> **امنیت بلاکچین و ممیزی قراردادهای هوشمند**
+
+در حال حاضر به صورت حرفه‌ای در حال یادگیری امنیت بلاکچین، با تمرکز بر آسیب‌پذیری‌های قراردادهای هوشمند و معماری سیستم‌های غیرمتمرکز هستم.
+
+### 📫 ارتباط
+
+*بهترین راه برای دسترسی به من، از میان سایه‌های شبکه است.*
 
 ---
 
-## دوره‌ها
+<div align="center" dir="rtl">
 
-- Network+
-- CEH
-- Security+
-- LPIC‑1 (Linux)
+**"در دنیایی از ردپاهای دیجیتال، ناشناس ماندن یک انتخاب است."**
+
+</div>
 
 ---
 
-## مسیر فعلی
+<div align="center">
 
-در حال حاضر تمرکز اصلی من روی:
+### 📊 GitHub Stats
 
-**امنیت بلاکچین**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7)
 
-- امنیت Smart Contract
-- معماری Web3
-- سیستم‌های غیرمتمرکز
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7)
 
-</details>
+</div>
+
+---
+
+<div align="center">
+
+*"Code in the shadows, secure the light."*
+
+</div>
