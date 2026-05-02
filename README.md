@@ -4,13 +4,14 @@
 
 ### Security Researcher | Python Specialist | Blockchain Security Enthusiast
 
+[![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=social)](https://github.com/YourUsername)
+[![GitHub stars](https://img.shields.io/github/stars/YourUsername?style=social)](https://github.com/YourUsername)
+
 ---
 
 </div>
 
 ## 🎯 About Me
-
-**Anon** — short for **Anonymous**. A title shared by many, and that's exactly how I like it.
 
 I'm a security-focused developer with **5 years** of experience across various technology domains, specializing in **Python** and **Security**. Currently diving deep into **Blockchain Security** and **Smart Contract auditing**, with a foundational focus on **DevOps** practices.
 
@@ -30,12 +31,13 @@ I'm a security-focused developer with **5 years** of experience across various t
 ![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Intermediate-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Basic-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Basic-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Security & Tools
+### Security & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Web Vulnerabilities](https://img.shields.io/badge/Web_Vulnerabilities-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
 
 ### Currently Learning
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
