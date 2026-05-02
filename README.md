@@ -2,7 +2,7 @@
 
 # 👤 Anon
 
-### Security Researcher | Python Specialist | Blockchain Security Enthusiast
+### Security Researcher | Python Specialist 
 
 [![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=social)](https://github.com/YourUsername)
 [![GitHub stars](https://img.shields.io/github/stars/YourUsername?style=social)](https://github.com/YourUsername)
@@ -46,5 +46,3 @@ I'm a security-focused developer with **5 years** of experience across various t
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
-
-## 🎓 Certifications & Training
