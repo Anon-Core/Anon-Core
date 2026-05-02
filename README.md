@@ -4,9 +4,6 @@
 
 ### Security Researcher | Python Specialist | Blockchain Security Enthusiast
 
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=social)](https://github.com/YourUsername)
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername?style=social)](https://github.com/YourUsername)
-
 ---
 
 </div>
