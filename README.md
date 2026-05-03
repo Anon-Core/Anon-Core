@@ -10,13 +10,6 @@
 
 ###### I'm a security-focused developer with **2.5+ years** of experience across various technology domains, specializing in **Python** and **Security**. Currently diving deep into **Blockchain Security** and **Smart Contract auditing**, with a foundational focus on **DevOps** practices.
 
-### Background
-
-- **Certifications**: Network+, CEH, Security+, Linux LPIC-1
-- **Penetration Testing**: Web application security, network scanning, vulnerability assessments
-- **Attack Vectors**: DoS/DDoS, SQL Injection, XSS, CSRF, File Upload vulnerabilities
-- **Current Focus**: Blockchain security & Smart Contract auditing
-
 ---
 
 ## Tech Stack
