@@ -6,11 +6,11 @@
 
 </div>
 
-## 🎯 About Me
+## About Me
 
 I'm a security-focused developer with **2.5+ years** of experience across various technology domains, specializing in **Python** and **Security**. Currently diving deep into **Blockchain Security** and **Smart Contract auditing**, with a foundational focus on **DevOps** practices.
 
-### 🛡️ Security Background
+### Background
 
 - **Certifications**: Network+, CEH, Security+, Linux LPIC-1
 - **Penetration Testing**: Web application security, network scanning, vulnerability assessments
@@ -19,7 +19,7 @@ I'm a security-focused developer with **2.5+ years** of experience across variou
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
