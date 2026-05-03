@@ -2,11 +2,6 @@
 
 # 👤 Anon
 
-### Security Researcher | Python Specialist 
-
-[![GitHub followers](https://img.shields.io/github/followers/Anon-Core?style=social)](https://github.com/Anon-Core)
-[![GitHub stars](https://img.shields.io/github/stars/Anon-Core?style=social)](https://github.com/Anon-Core)
-
 ---
 
 </div>
