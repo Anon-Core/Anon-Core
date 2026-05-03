@@ -13,7 +13,7 @@
 
 ## 🎯 About Me
 
-I'm a security-focused developer with **5 years** of experience across various technology domains, specializing in **Python** and **Security**. Currently diving deep into **Blockchain Security** and **Smart Contract auditing**, with a foundational focus on **DevOps** practices.
+I'm a security-focused developer with **2.5+ years** of experience across various technology domains, specializing in **Python** and **Security**. Currently diving deep into **Blockchain Security** and **Smart Contract auditing**, with a foundational focus on **DevOps** practices.
 
 ### 🛡️ Security Background
 
