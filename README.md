@@ -31,7 +31,7 @@ Security is one of my main interests, and I’ve gained practical experience exp
 ![CSS](https://img.shields.io/badge/CSS-Basic-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Security & Systems
-![Linux](https://img.shields.io/badge/Linux-System-Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-Security-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Web Vulnerabilities](https://img.shields.io/badge/Web_Security-Vulnerabilities-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
 
