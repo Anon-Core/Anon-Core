@@ -1,6 +1,6 @@
 ر<div align="center">
 
-<img src="https://github.com/Anon-Core/Anon-Core/blob/main/assets/banner.png" alt="GitHub Banner" width="100%" />
+<img src="https://github.com/Anon-Core/Anon-Core/blob/main/assets/banner2.png" alt="GitHub Banner" width="100%" />
 
 # ANON
 
