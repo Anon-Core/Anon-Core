@@ -12,11 +12,10 @@ Cyber Security • Development • Continuous Learning
 
 ## About Me
 
-Hello.  
-I’m passionate about technology and especially interested in the Iranian tech ecosystem.  
-Currently focused on learning, experimenting, and improving my skills in programming and security.
-
-Security is one of my main interests, and I’ve gained practical experience exploring different areas of it.
+Hello.
+I am a tech fanatic from Iran
+Currently, I am focused on learning, experimenting, and improving my skills in programming and security.
+Security is one of my main interests and I have gained practical experience in various fields.
 
 ---
 
