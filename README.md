@@ -8,7 +8,9 @@
 
 ## About Me
 
-###### I'm a security-focused developer with **2.5+ years** of experience across various technology domains, specializing in **Python** and **Security**. Currently diving deep into **Blockchain Security** and **Smart Contract auditing**, with a foundational focus on **DevOps** practices.
+###### Hello
+###### I am a big fan of Iranian technology and I am currently constantly learning and improving.
+###### I love security and have learned and experienced a lot from it so far.
 
 ---
 
