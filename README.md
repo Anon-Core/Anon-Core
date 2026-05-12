@@ -36,9 +36,3 @@ Security is one of my main interests and I have gained practical experience in v
 
 ---
 
-## Focus
-
-- Cyber Security  
-- Secure Development  
-- Blockchain Technologies  
-- Open Source Learning
