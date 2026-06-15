@@ -13,7 +13,7 @@ Cyber Security • Development • Continuous Learning
 ## About Me
 
 Hello.
-I am a tech fanatic from Iran
+I am a tech fanatic from Iran.
 Currently, I am focused on learning, experimenting, and improving my skills in programming and security.
 Security is one of my main interests and I have gained practical experience in various fields.
 
